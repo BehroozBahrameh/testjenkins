@@ -7,7 +7,7 @@ public class HelloServiceImpl implements HelloService {
 
   @Override
   public String sayHello() {
-    return "hello1";
+    return "hello";
   }
 
 }
